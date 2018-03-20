@@ -32,6 +32,7 @@ public boolean isAsynchronous() {
 	return false;
 }
 
+/*this is to load cache in the startup*/
 
 public void load(Ehcache arg0) throws CacheException {
 	// TODO Auto-generated method stub
